@@ -3,7 +3,7 @@
 
 ## WEBSITE
 
-[![OPEN WEBSITE](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=website&logoColor=white "GOTO WEB")](https://bill-splitter-shrey.netlify.app/)
+[![OPEN WEBSITE](https://custom-icon-badges.herokuapp.com/badge/-website-blue?style=for-the-badge&logo=website&logoColor=white "GOTO WEB")](https://bill-splitter-shrey.netlify.app/)
 ## DOWNLOAD APK
 
 With a single click of the button below, and download ISTINE apk(suitable for your mobile architecture).

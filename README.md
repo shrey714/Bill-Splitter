@@ -1,5 +1,5 @@
 # Bill-Splitter
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d71386ca-989d-4cf1-a09a-791d466c3a6c/deploy-status)](https://app.netlify.com/sites/bill-splitter-shrey/deploys)
 ## DOWNLOAD APK
 
 With a single click of the button below, and download ISTINE apk(suitable for your mobile architecture).

@@ -6,10 +6,7 @@
 [![OPEN WEBSITE](https://custom-icon-badges.herokuapp.com/badge/-website-blue?style=for-the-badge&logo=website&logoColor=white "GOTO WEB")](https://bill-splitter-shrey.netlify.app/)
 ## DOWNLOAD APK
 
-With a single click of the button below, and download ISTINE apk(suitable for your mobile architecture).
-<!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://drive.google.com/file/d/1leNhjD-IVTYUAf8DNuDH25UBGDlJJaPS/view)
-<!-- END LATEST DOWNLOAD BUTTON -->
+[![OPEN WEBSITE](https://custom-icon-badges.herokuapp.com/badge/-website-blue?style=for-the-badge&logo=website&logoColor=white "GOTO WEB")](https://play.google.com/store/apps/details?id=com.billshreysplitter)
 
 Designed an application which smartly manages debt between friends and tracks bills and other shared expenses.
 The motive behind designing this application lies in the difficulty caused by users while travelling in a group and managing expenses. 
